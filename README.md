@@ -1,3 +1,7 @@
+<style>
+  background-color:black;
+  color:white;
+</style>
 <h1 align="center">Hi 👋, I'm Lahiru Pramuditha</h1>
 <h3 align="center">A passionate full-stack developer from Srilanka</h3>
 
