@@ -1,8 +1,8 @@
-# ![Enchanted Forest](https://i.imgur.com/0LyIcjt.jpg)
+
 
 ## 🌟 Welcome to the Enchanted Forest 🌳
 
-![Wanderer](https://i.imgur.com/4eIVXXs.gif)
+![Wanderer](https://media.tenor.com/pPKOYQpTO8AAAAAS/monkey-developer.gif)
 
 > "Not all those who wander are lost." - J.R.R. Tolkien
 
