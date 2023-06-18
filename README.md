@@ -1,29 +1,53 @@
+# ![Enchanted Forest](https://i.imgur.com/0LyIcjt.jpg)
 
-<h1 align="center">Hi 👋, I'm Lahiru Pramuditha</h1>
-<h3 align="center">A passionate full-stack developer from Srilanka</h3>
+## 🌟 Welcome to the Enchanted Forest 🌳
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahirupramuditha0000&label=Profile%20views&color=0e75b6&style=flat" alt="lahirupramuditha0000" /> </p>
+![Wanderer](https://i.imgur.com/4eIVXXs.gif)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lahirupramuditha0000" alt="lahirupramuditha0000" /></a> </p>
+> "Not all those who wander are lost." - J.R.R. Tolkien
 
-- 🔭 I’m currently working on [my portfolio site](https://github.com/Lahirupramuditha0000?tab=repositories)
+## About Me
 
-- 🌱 I’m currently learning **Tenserflow and Computer vision**
+Greetings, fellow traveler of the digital realms! I am Lahiru Pramuditha, a passionate full-stack developer hailing from the mystical land of Srilanka. As I embark on this enchanted journey, I breathe life into ideas through elegant and efficient code.
 
-- 💬 Ask me about **react**
+![Profile Views](https://komarev.com/ghpvc/?username=lahirupramuditha0000&label=Profile%20Views&color=0e75b6&style=flat)
 
-- 📫 How to reach me **lahirupramuditha0000@gmail.com**
+## My Trophies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lahiru-pramuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahiru-pramuditha" height="30" width="40" /></a>
-</p>
+Take a moment to behold my collection of achievements and accomplishments. Each trophy represents a milestone in my journey, showcasing my dedication and growth.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=lahirupramuditha0000)](https://github.com/Lahirupramuditha0000)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahirupramuditha0000&show_icons=true&locale=en&layout=compact" alt="lahirupramuditha0000" /></p>
+## Current Ventures
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahirupramuditha0000&show_icons=true&locale=en" alt="lahirupramuditha0000" /></p>
+🔭 Currently, I'm diligently working on shaping my **Portfolio Site** - a magical gateway to my digital abode. Behold its captivating wonders and explore the realms of my creations on [GitHub](https://github.com/Lahirupramuditha0000?tab=repositories).
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lahirupramuditha0000&" alt="lahirupramuditha0000" /></p>
+![Portfolio Site](https://i.imgur.com/ePzTgC0.png)
+
+🌱 My insatiable thirst for knowledge has led me to embark on a quest to conquer **TensorFlow** and the fascinating realm of **Computer Vision**. Join me on this exhilarating journey as we unravel the mysteries of artificial intelligence.
+
+![Computer Vision](https://i.imgur.com/TPUqPb0.gif)
+
+💬 Have any burning questions about **React** or simply want to engage in a stimulating discussion? Feel free to reach out to me at [lahirupramuditha0000@gmail.com](mailto:lahirupramuditha0000@gmail.com).
+
+## Connect with Me
+
+Let's forge a bond and extend our digital networks. You can find me on **LinkedIn**, where we can exchange ideas and inspire each other on our respective journeys.
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />](https://linkedin.com/in/lahiru-pramuditha)
+
+## Languages and Tools
+
+Behold the arsenal of languages and tools I wield in my quest to shape the digital landscape. From **Angular** to **Python**, I harness their power to build robust and captivating experiences.
+
+![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=lahirupramuditha0000&layout=compact&theme=radical)
+
+## Stats at a Glance
+
+Unveiling a glimpse of my accomplishments and contributions, behold the statistics that reflect my prowess in the realms of code.
+
+![Stats](https://github-readme-stats.vercel.app/api?username=lahirupramuditha0000&show_icons=true&locale=en&theme=radical)
+
+## The Journey Continues
+
+As the sun sets on one chapter of my journey, another awaits to be written. Together, let's continue shaping the digital world, one line of code at a time. 🚀
