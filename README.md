@@ -40,7 +40,8 @@ Let's forge a bond and extend our digital networks. You can find me on **LinkedI
 
 Behold the arsenal of languages and tools I wield in my quest to shape the digital landscape. From **Angular** to **Python**, I harness their power to build robust and captivating experiences.
 
-![Languages and Tools](https://github-readme-stats.vercel.app/api/top-langs/?username=lahirupramuditha0000&layout=compact&theme=radical)
+![Languages and Tools]([![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+)
 
 ## Stats at a Glance
 
