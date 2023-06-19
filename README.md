@@ -22,11 +22,11 @@ Take a moment to behold my collection of achievements and accomplishments. Each 
 
 🔭 Currently, I'm diligently working on shaping my **Portfolio Site** - a magical gateway to my digital abode. Behold its captivating wonders and explore the realms of my creations on [GitHub](https://github.com/Lahirupramuditha0000?tab=repositories).
 
-![Portfolio Site](https://i.imgur.com/ePzTgC0.png)
+![Portfolio Site]
 
 🌱 My insatiable thirst for knowledge has led me to embark on a quest to conquer **TensorFlow** and the fascinating realm of **Computer Vision**. Join me on this exhilarating journey as we unravel the mysteries of artificial intelligence.
 
-![Computer Vision](https://i.imgur.com/TPUqPb0.gif)
+![Computer Vision]
 
 💬 Have any burning questions about **React** or simply want to engage in a stimulating discussion? Feel free to reach out to me at [lahirupramuditha0000@gmail.com](mailto:lahirupramuditha0000@gmail.com).
 
