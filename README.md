@@ -16,7 +16,7 @@ I'm a **Data Science undergrad** at SLTC Research University, fascinated by turn
 
 Currently learning, building, and figuring it all out.
 
-- 🎓 Undergraduate in Data Science — SLIIT Research University
+- 🎓 Undergraduate in Data Science — SLTC Research University
 - 📍 Based in Sri Lanka
 - 🤝 Open to collaborations on data science and ML projects
 - 🌱 Currently deepening my knowledge in machine learning and data engineering
