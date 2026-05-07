@@ -12,7 +12,7 @@
 
 ### 👤 About me
 
-I'm a **Data Science undergrad** at SLIIT Research University, fascinated by turning raw data into things that actually make sense. I spend my time wrangling datasets, training models, and occasionally making React apps do interesting things.
+I'm a **Data Science undergrad** at SLTC Research University, fascinated by turning raw data into things that actually make sense. I spend my time wrangling datasets, training models, and occasionally making React apps do interesting things.
 
 Currently learning, building, and figuring it all out.
 
