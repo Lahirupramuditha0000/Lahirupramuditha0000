@@ -1,58 +1,61 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Lahiru%20Pramuditha&fontSize=56&animation=fadeIn&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Data Science Undergraduate @ SLTC Research University</strong><br>
-  <em>Transforming raw data into predictive assets and intelligent systems.</em>
-</p>
+  <!-- Dynamic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=Lahiru%20Pramuditha&fontSize=52&animation=fadeIn&fontColor=ffffff&theme=tokyonight" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/lahirupramuditha0000"><img src="https://img.shields.io/github/followers/lahirupramuditha0000?logo=github&style=flat-square&color=lightgray" alt="Followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=lahirupramuditha0000&style=flat-square&color=blue" alt="Profile views" />
-</p>
+  <h3><code>🧠 Exploring the Universe of Data, Mathematics & Intelligence</code></h3>
 
----
+  <p>
+    <b>BSc (Hons) Data Science Undergraduate @ SLTC Research University</b><br>
+    <i>Bridging foundational mathematics and computer science to engineer intelligent systems.</i>
+  </p>
 
-### 🧬 About Me
+  <!-- Animated Badges & Metrics -->
+  <p>
+    <a href="https://github.com/lahirupramuditha0000"><img src="https://img.shields.io/github/followers/lahirupramuditha0000?logo=github&style=for-the-badge&color=2e3440&labelColor=1a1b26" alt="Followers"></a>
+    <img src="https://komarev.com/ghpvc/?username=lahirupramuditha0000&style=for-the-badge&color=7aa2f7&labelColor=1a1b26&label=PROFILE+VIEWS" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Focus-AI_%26_Machine_Learning-7dcfff?style=for-the-badge&labelColor=1a1b26" alt="Focus Area">
+  </p>
 
-I am a focused Data Science student passionate about the intersection of statistical modeling, machine learning pipelines, and software engineering. I bridges the gap between complex backend data wrangling and clean frontend delivery.
-
-- 🔭 **Current Focus:** Advanced machine learning architectures & data engineering workflows.
-- ⚙️ **Core Strategy:** Building reproducible pipelines and deployment-ready models.
-- 📍 **Location:** Sri Lanka
-- 💬 **Ask Me About:** Exploratory Data Analysis, predictive modeling, or why my React state won't update.
+  <br />
+</div>
 
 ---
 
-### 🛠️ Technical Ecosystem
+### 🌌 About Me
 
-| Category | Technologies |
+> *"Understanding **why** systems work from first principles is far more powerful than memorizing definitions."*
+
+- 🎓 **Undergraduate:** Pursuing a BSc (Hons) in Data Science with a deep interest in computational mathematics and theoretical AI.
+- 🔬 **Long-term Mission:** Aiming for fully funded **MSc/PhD research** focusing on Machine Learning, AI architectures, and Computational Mathematics.
+- 🛠️ **Current Focus:** Strengthening core mathematical foundations (Calculus & Linear Algebra) while building scalable Python data pipelines.
+- ⚽ **Outside the Code:** Fascinated by astrophysics, the mysteries of the universe, and football tactical analysis.
+- 💬 **Let's Talk About:** Data modeling, ML workflows, linear algebra intuition, or why React state acts up late at night.
+
+---
+
+### 🔬 Technical Ecosystem & Tooling
+
+<div align="center">
+
+| Core Focus | Skills & Tech Stack |
 | :--- | :--- |
-| **Data & Core AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Databases & Architecture** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Web & Application Layers** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-| **Workflow & Development** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Data Science & ML** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Web & App Layer** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Tools & Environment** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+
+</div>
 
 ---
 
-### 📊 Performance Metrics
+### ⚡ My Research & Learning Roadmap
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lahirupramuditha0000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahirupramuditha0000&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lahirupramuditha0000&theme=tokyonight&hide_border=true" width="100%" max-width="800" />
-</p>
-
----
-
-### 📬 Network & Collaboration
-
-Let's build something data-driven. 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+```gantt
+dateFormat  YYYY-MM-DD
+section Core Foundations
+Math & CS Fundamentals    :active, 2026-01-01, 2026-12-31
+section AI & ML Exploration
+Predictive Modeling & EDA  :active, 2026-03-01, 2026-11-30
+section Target Future
+Graduate Research & Higher Studies :after, 2027-01-01, 2028-12-31
