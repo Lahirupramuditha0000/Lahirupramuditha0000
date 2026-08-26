@@ -1,77 +1,170 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Lahiru Pramuditha's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 ```text
-       ___           ___           ___           ___           ___           ___     
-      /\  \         /\  \         /\  \         /\  \         /\  \         /\  \    
-     /::\  \       /::\  \       /::\  \       /::\  \       /::\  \       /::\  \   
-    /:/\:\  \     /:/\:\  \     /:/\:\  \     /:/\:\  \     /:/\:\  \     /:/\:\  \  
-   /::\~\:\  \   /::\~\:\  \   /::\~\:\  \   /::\~\:\  \   /::\~\:\  \   /::\~\:\  \ 
-  /:/\:\ \:\__\ /:/\:\ \:\__\ /:/\:\ \:\__\ /:/\:\ \:\__\ /:/\:\ \:\__\ /:/\:\ \:\__\
-  \/__\:\/:/  / \/__\:\/:/  / \/__\:\/:/  / \/__\:\/:/  / \/__\:\/:/  / \/__\:\/:/  /
-       \::/  /       \::/  /       \::/  /       \::/  /       \::/  /       \::/  / 
-       /:/  /        /:/  /        /:/  /        /:/  /        /:/  /        /:/  /  
-      /:/  /        /:/  /        /:/  /        /:/  /        /:/  /        /:/  /   
-      \/__/         \/__/         \/__/         \/__/         \/__/         \/__/    
-                                  LAHIRU PRAMUDITHA
-Plaintext
- ╔═══════════════════════════════════════════════════════════════════════════════════╗
- ║  [01] USER: Lahiru Pramuditha | Data Science @ SLTC Research University           ║
- ║  [02] LOGIC: import first_principles as math -> math.explain_why(everything)      ║
- ║  [03] TARGET: Fully Funded MSc/PhD in AI & Computational Mathematics             ║
- ╚═══════════════════════════════════════════════════════════════════════════════════╝
-🧬 cat bio.md
-Python
-class DataScientist:
-    def __init__(self):
-        self.name = "Lahiru Pramuditha"
-        self.role = "BSc (Hons) Data Science Student"
-        self.location = "Sri Lanka"
-        self.philosophy = "If you can't derive it from scratch, you don't understand it."
+       ___           ___           ___           ___           ___
+      /\  \         /\  \         /\  \         /\  \         /\  \
+     /::\  \       /::\  \       /::\  \       /::\  \       /::\  \
+    /:/\:\  \     /:/\:\  \     /:/\:\  \     /:/\:\  \     /:/\:\  \
+   /::\~\:\  \   /::\~\:\  \   /::\~\:\  \   /::\~\:\  \   /::\~\:\  \
+  /:/\:\ \:\__\ /:/\:\ \:\__\ /:/\:\ \:\__\ /:/\:\ \:\__\ /:/\:\ \:\__\
+  \/__\:\/:/  / \/__\:\/:/  / \/__\:\/:/  / \/__\:\/:/  / \/__\:\/:/  /
+       \::/  /       \::/  /       \::/  /       \::/  /       \::/  /
+       /:/  /        /:/  /        /:/  /        /:/  /        /:/  /
+      /:/  /        /:/  /        /:/  /        /:/  /        /:/  /
+      \/__/         \/__/         \/__/         \/__/         \/__/
 
-    def current_state(self):
-        return {
-            "focus": ["Calculus", "Linear Algebra", "Machine Learning Pipelines"],
-            "passions": ["Astrophysics", "Football Tactics", "Why PyTorch > Black Boxes"],
-            "horizon": "Fully funded MSc / PhD research scholarship"
-        }
+                         LAHIRU PRAMUDITHA
+                   AI × MATHEMATICS × DATA SCIENCE
+```
 
-    def solve_problem(self, bug):
-        while bug:
-            print("Explaining concept to a rubber duck using first principles...")
-            bug = False
-🔮 show skills --aesthetic
-Plaintext
-  .----------------.  .----------------.  .----------------.  .----------------.
- | .--------------. || .--------------. || .--------------. || .--------------. |
- | |  ██████╗     | || |  ███╗   ███╗ | || |  ███████╗    | || |  ██████╗     | |
- | |  ██╔══██╗    | || |  ████╗ ████║ | || |  ██╔════╝    | || |  ██╔══██╗    | |
- | |  ██████╔╝    | || |  ██╔████╔██║ | || |  ███████╗    | || |  ██████╔╝    | |
- | |  ██╔═══╝     | || |  ██║╚██╔╝██║ | || |  ╚════██║    | || |  ██╔══██╗    | |
- | |  ██║         | || |  ██║ ╚═╝ ██║ | || |  ███████║    | || |  ██║  ██║    | |
- | |  ╚═╝         | || |  ╚═╝     ╚═╝ | || |  ╚══════╝    | || |  ╚═╝  ╚═╝    | |
- | |   [Python]   | || |   [ML Core]  | || |    [SQL]     | || |   [React]    | |
- | '--------------' || '--------------' || '--------------' || '--------------' |
-  '----------------'  '----------------'  '----------------'  '----------------'
-Plaintext
-┌─────────────────────────┬───────────────────────────────────┬─────────┐
-│ DOMAIN                  │ METRIC                            │ LEVEL   │
-├─────────────────────────┼───────────────────────────────────┼─────────┤
-│ Data Wrangling / ML     │ [████████████████████████████░░]  │ 90%     │
-│ Math First Principles   │ [████████████████████████░░░░░░]  │ 80%     │
-│ SQL / Database Schemas  │ [███████████████████████░░░░░░░]  │ 75%     │
-│ React Frontend          │ [██████████████████░░░░░░░░░░░░]  │ 60%     │
-└─────────────────────────┴───────────────────────────────────┴─────────┘
-⚽ git log --graph --oneline --routine
-Code snippet
-graph LR
-    classDef default fill:#1a1b26,stroke:#bb9af7,stroke-width:1px,color:#a9b1d6;
-    classDef highlight fill:#1a1b26,stroke:#7aa2f7,stroke-width:2px,color:#7dcfff;
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ [01] USER: Lahiru Pramuditha | BSc (Hons) Data Science @ SLTC               ║
+║ [02] MODE: Learn → Experiment → Build → Understand                          ║
+║ [03] DIRECTION: Machine Learning × Computational Mathematics × AI Research   ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-    A["☕ 08:00<br/>Deriving Math"]:::highlight --> B["📊 12:00<br/>Building ML Pipelines"]
-    B --> C["⚛️ 16:00<br/>React State Debugging"]
-    C --> D["🌌 20:00<br/>Astrophysics & Football"]:::highlight
-    D --> A
-📊 fetch --telemetry
-📡 ping --connection
-Plaintext
-[READY] Looking for open-source AI/ML collaborations, research discussions, or fully funded MSc/PhD trac
+### 🧬 `cat bio.md`
+
+```python
+class Lahiru:
+    name = "Lahiru Pramuditha"
+    role = "Data Science Undergraduate"
+    location = "Sri Lanka"
+
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Mathematics",
+        "Scientific Computing",
+        "Astrophysics"
+    ]
+
+    philosophy = "Understand the why, not just the how."
+
+    def approach(self, problem):
+        return [
+            "Break it down",
+            "Start from first principles",
+            "Experiment",
+            "Understand the result",
+            "Build again"
+        ]
+```
+
+### 🧠 `./currently_exploring`
+
+```text
+                    CURRENT FOCUS
+
+  Python & Data Science        ████████████████████  ACTIVE
+  Machine Learning             █████████████████░░░  BUILDING
+  Mathematics                  ███████████████░░░░░  DEEPENING
+  Deep Learning                █████████████░░░░░░░  EXPLORING
+  Scientific Computing         ███████████░░░░░░░░░  EXPLORING
+```
+
+### 🔬 `ls ./selected-projects`
+
+| Project                         | What I'm exploring               |
+| ------------------------------- | -------------------------------- |
+| 🧠 Brain Tumor Segmentation     | Computer Vision / Deep Learning  |
+| 🌧️ Rain Predictor              | Machine Learning / Prediction    |
+| ❤️ Heart Disease Risk Predictor | ML / Data Analysis               |
+| 💰 SpendLog                     | Python / Application Development |
+
+### 🧭 `cat roadmap.txt`
+
+```text
+                         MATHEMATICS
+                              │
+                              ▼
+                       STATISTICS & PROBABILITY
+                              │
+                              ▼
+                         DATA SCIENCE
+                              │
+                              ▼
+                     MACHINE LEARNING
+                              │
+                              ▼
+                       DEEP LEARNING
+                              │
+                              ▼
+                    COMPUTATIONAL MATHEMATICS
+                              │
+                              ▼
+                         AI RESEARCH
+```
+
+```text
+LONG-TERM DIRECTION
+
+Build a strong foundation in mathematics and computation,
+then use it to understand and develop intelligent systems.
+
+Future goal → Graduate research in AI / Computational Mathematics
+```
+
+### ⚽ `git log --graph --interests`
+
+```text
+* ── 📐 Mathematics
+│
+├── 🧠 Artificial Intelligence
+│
+├── 📊 Data Science
+│
+├── 🌌 Astrophysics
+│
+└── ⚽ Football
+```
+
+### 🛠️ `ls ./toolbox`
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,git,github,matlab,mysql,html,css,js" />
+
+</p>
+
+### 📚 `./learning-log`
+
+```text
+[✓] Kaggle — Intro to Machine Learning
+[✓] Kaggle — Pandas
+[✓] Kaggle — Data Visualization
+[✓] IBM SkillsBuild — Getting Started with Generative AI
+
+[→] Mathematics for Computing
+[→] Machine Learning
+[→] Deep Learning
+[→] Scientific Computing
+```
+
+### 📡 `ping --connection`
+
+```text
+[READY] Open to interesting AI/ML projects,
+        open-source collaboration, and research discussions.
+
+        ┌─────────────────────────────────────┐
+        │  "Build things. Question everything.│
+        │   Understand the mathematics."      │
+        └─────────────────────────────────────┘
+```
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">LinkedIn</a>
+  •   <a href="https://www.kaggle.com/">Kaggle</a>
+  •   <a href="mailto:your-email@example.com">Email</a>
+
+</p>
