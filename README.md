@@ -1,43 +1,50 @@
 <div align="center">
 
-```text
-  ██╗      █████╗ ██╗██╗  ██╗██╗██╗   ██╗     ██████╗ ██████╗  █████╗ ███╗   ███╗
-  ██║     ██╔══██╗██║██║  ██║██║██║   ██║     ██╔══██╗██╔══██╗██╔══██╗████╗ ████║
-  ██║     ███████║██║███████║██║██║   ██║     ██████╔╝██████╔╝███████║██╔████╔██║
-  ██║     ██╔══██║██║██╔══██║██║██║   ██║     ██╔═══╝ ██╔══██╗██╔══██║██║╚██╔╝██║
-  ███████╗██║  ██║██║██║  ██║██║╚██████╔╝     ██║     ██║  ██║██║  ██║██║ ╚═╝ ██║
-[ SYSTEM STATUS: ONLINE ] • [ LOCATION: SRI LANKA ] • [ DIRECTIVE: RESEARCH & INTELLIGENCE ]
+```ascii
+      ___       ___       ___       ___       ___            ___       ___       ___       ___       ___       ___       ___ 
+     /\  \     /\  \     /\__\     /\  \     /\  \          /\  \     /\  \     /\  \     /\██\     /\  \     /\  \     /\  \
+    /::\  \   /::\  \   /:/  /    /::\  \   /::\  \        /::\  \   /::\  \   /::\  \   /::\_\_   /::\  \   /::\  \   /::\  \
+   /:/\:\  \ /:/\:\  \ /:/__/    /:/\:\  \ /_/:/  /       /::\██_\  /:/\:\  \ /:/\:\  \ /:/|██__\ /:/\:\  \ /_/:/  /  /:/\:\  \
+  /::\~\:\  /::\~\:\  /::\  \   /::\~\:\  \ /:/  /       /::"|  /  /::\~\:\ /::\~\:\ /:/ |██|  /::\~\:\  \/::/  /  /::\~\:\  \
+ /_/:/\:\__/:/  \:\__/:/\:\__\ /_/:/\:\__\ /:/__/       /:/|██|__ /_/:/\:\_/:/  \:\_/:/  |██| /_/:/\:\__/:/__/  /_/:/\:\__\
+ \:\~\/__/\/__/ \/__/\/__\/__/ \:\~\/__/\/__/           \/_|██|__|\:\~\/__/\/__/ \/__/\/__|██| \:\~\/__/\/__/   \:\~\/__/
+  \:\  \                        \:\  \                      |██|  |\:\  \                 |██|  \:\  \            \:\  \   
+   \:\  \                        \:\  \                     |██|  | \:\  \                |██|   \:\  \            \:\  \  
+    \:\__\                        \:\__\                    |██|__|  \:\__\               |██|    \:\__\            \:\__\ 
+     \/__/                         \/__/                    |/__/     \/__/               |/__/     \/__/            \/__/ 
+[ SYSTEM ID: LAHIRU PRAMUDITHA ] • [ STATUS: RESEARCH & DEVELOPMENT ] • [ SRI LANKA 🇱🇰 ]
 
-🖥️ lahiru@system:~$ cat about_me.json
+🖥️ lahiru@system:~$ cat /etc/identity.json
 JSON
 {
-  "identity": {
-    "name": "Lahiru Pramuditha",
-    "role": "Data Science Undergraduate @ SLTC Research University",
-    "location": "Sri Lanka 🇱🇰",
-    "philosophy": "Understand WHY it works from first-principles over memorizing definitions."
+  "system_user": "Lahiru Pramuditha",
+  "role": "BSc (Hons) Data Science Student @ SLTC Research University",
+  "core_philosophy": "Mastering WHY algorithms work mathematically over memorizing API frameworks.",
+  "research_vector": {
+    "primary": ["Artificial Intelligence", "Machine Learning Pipelines", "Computational Mathematics"],
+    "secondary": ["Astrophysics Data", "Football Tactical Analytics", "Computer Architecture"]
   },
-  "research_interests": [
-    "Theoretical AI & Machine Learning Architectures",
-    "Computational Mathematics & Calculus",
-    "Astrophysics & Cosmological Data",
-    "Football Tactical Analytics"
-  ],
-  "long_term_horizon": "Pursuing fully funded MSc / PhD in AI & Computational Science"
+  "long_term_horizon": "Targeting fully funded MSc/PhD opportunities in AI & Computational Science."
 }
-⚡ lahiru@system:~$ show-skill-matrix --graphical
+⚡ lahiru@system:~$ show-capabilities --interactive
 Plaintext
-CORE_AI     [████████████████████░░░░░] 80%  -> Python / Scikit-Learn / Pandas
-MATH_LOGIC  [██████████████████░░░░░░░] 72%  -> Linear Algebra / Calculus / Stats
-DEV_TOOLS   [██████████████████████░░░] 85%  -> Git / Jupyter / SQL
-WEB_STACK   [████████████████░░░░░░░░░] 65%  -> React / JS State Management
+===================================================================================
+MODULE                   PROGRESS BAR                     LEVEL         STATUS
+===================================================================================
+Python & Data Science    [████████████████████████████░░] 90%           ACTIVE
+Linear Algebra & Math    [██████████████████████░░░░░░░] 75%           IN_PROGRESS
+ML Architectures         [████████████████████░░░░░░░░░] 70%           BUILDING
+Web Stack (React/JS)     [████████████████░░░░░░░░░░░░░] 60%           MAINTAINED
+===================================================================================
+🚀 lahiru@system:~$ ./list_featured_projects.sh
 🕹️ lahiru@system:~$ ./run_daily_routine.sh
 Code snippet
 graph LR
-    A[☕ Coffee + Math Fundamentals] --> B[📊 Data Wrangling & Modeling]
+    A[☕ Coffee + Math Foundations] --> B[📊 ML Data Wrangling & Modeling]
     B --> C[⚛️ React Debugging]
-    C --> D[⚽ Football / Astrophysics]
+    C --> D[⚽ Football Analysis / Astrophysics]
     D --> A
 📊 lahiru@system:~$ fetch --analytics
 🤝 lahiru@system:~$ initiate-connection
-[READY] Looking for open-source AI/ML collaborations, research discussions, or technical projects.
+Plaintext
+[STATUS] Open for AI/ML open-source projects, research discussions, or technical collaboration.
