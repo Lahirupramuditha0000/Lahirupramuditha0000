@@ -4,7 +4,7 @@
 
 <br>
 
-```text
+```text id="yzylif"
  █████████████████████████████████████████████████████████████████
 
                  LAHIRU PRAMUDITHA
@@ -15,7 +15,7 @@
 
 </div>
 
-```text
+```text id="pm7d0g"
 ┌──[ lahiru@github ]──[ ~/profile ]────────────────────────────────┐
 │                                                                  │
 │  $ whoami                                                        │
@@ -32,7 +32,7 @@
 
 ### `$ cat about.txt`
 
-```text
+```text id="4i30ge"
 I'm a Data Science undergraduate interested in understanding
 intelligent systems from the ground up.
 
@@ -55,7 +55,7 @@ Outside computing:
 
 ### `$ cat philosophy.txt`
 
-```text
+```text id="v3hz8w"
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
 │  > Don't just learn the algorithm.                               │
@@ -64,14 +64,14 @@ Outside computing:
 │  > Don't just make it work.                                      │
 │  > Understand why it works.                                     │
 │                                                                  │
-│  > First principles > memorization                               │
+│  > First principles > memorization                              │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
 ### `$ ls interests/`
 
-```text
+```text id="z0fw0o"
 drwxr-xr-x  ai/
 drwxr-xr-x  machine-learning/
 drwxr-xr-x  mathematics/
@@ -84,7 +84,7 @@ drwxr-xr-x  football/
 
 ### `$ cat stack.txt`
 
-```text
+```text id="negl0u"
 LANGUAGES
 ─────────
 Python · Java · JavaScript · SQL
@@ -102,49 +102,9 @@ WEB
 HTML · CSS · React
 ```
 
-### `$ ./research_path`
-
-```text
-                    ┌──────────────┐
-                    │  MATHEMATICS │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │  COMPUTATION │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │ DATA & STATS │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │      ML      │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │      DL      │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │  AI RESEARCH │
-                    └──────────────┘
-```
-
-```text
-$ echo "long_term_direction"
-
-Build strong foundations in mathematics and computation,
-then use them to understand and develop intelligent systems.
-```
-
 ### `$ system --status`
 
-```text
+```text id="qdpjiq"
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
 │  SYSTEM STATUS                                                   │
@@ -165,7 +125,7 @@ then use them to understand and develop intelligent systems.
 
 ### `$ ping --connection`
 
-```text
+```text id="6tj5ts"
 [CONNECTED]
 
 Open to interesting AI/ML discussions,
@@ -174,7 +134,7 @@ open-source collaboration, and research conversations.
 
 <div align="center">
 
-```text
+```text id="co4606"
 ──────────────────────────────────────────────────────────────────
 
               BUILD  //  QUESTION  //  UNDERSTAND
