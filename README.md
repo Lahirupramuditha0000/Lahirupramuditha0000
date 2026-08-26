@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="ascii.jpg" width="520" alt="Lahiru Pramuditha in ASCII style" />
+<img src="ascii.jpeg" width="520" alt="Lahiru Pramuditha in ASCII style" />
 
-<br>
+<br><br>
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
