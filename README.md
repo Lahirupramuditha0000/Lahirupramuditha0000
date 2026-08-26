@@ -6,7 +6,7 @@
   <img alt="Lahiru Pramuditha's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-```text
+```text id="n8k4ps"
        ___           ___           ___           ___           ___
       /\  \         /\  \         /\  \         /\  \         /\  \
      /::\  \       /::\  \       /::\  \       /::\  \       /::\  \
@@ -23,148 +23,103 @@
                    AI × MATHEMATICS × DATA SCIENCE
 ```
 
-```text
+```text id="k0x8qs"
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║ [01] USER: Lahiru Pramuditha | BSc (Hons) Data Science @ SLTC               ║
+║ [01] USER: Lahiru Pramuditha | Data Science @ SLTC Research University      ║
 ║ [02] MODE: Learn → Experiment → Build → Understand                          ║
-║ [03] DIRECTION: Machine Learning × Computational Mathematics × AI Research   ║
+║ [03] DIRECTION: AI × Mathematics × Computational Science                    ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-### 🧬 `cat bio.md`
+### 🧬 `cat about.md`
 
-```python
-class Lahiru:
-    name = "Lahiru Pramuditha"
-    role = "Data Science Undergraduate"
-    location = "Sri Lanka"
+```text id="8v4c1n"
+I'm Lahiru, a Data Science undergraduate with a strong interest
+in Artificial Intelligence, Mathematics and scientific computing.
 
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Mathematics",
-        "Scientific Computing",
-        "Astrophysics"
-    ]
+I enjoy understanding problems from first principles, turning
+mathematical ideas into computational experiments, and building
+systems that make those ideas practical.
 
-    philosophy = "Understand the why, not just the how."
-
-    def approach(self, problem):
-        return [
-            "Break it down",
-            "Start from first principles",
-            "Experiment",
-            "Understand the result",
-            "Build again"
-        ]
+Beyond computing, I'm fascinated by astrophysics and the universe,
+and I'm always interested in the intersection between mathematics,
+computation and intelligence.
 ```
 
-### 🧠 `./currently_exploring`
+### 🧠 `cat philosophy.txt`
 
-```text
-                    CURRENT FOCUS
-
-  Python & Data Science        ████████████████████  ACTIVE
-  Machine Learning             █████████████████░░░  BUILDING
-  Mathematics                  ███████████████░░░░░  DEEPENING
-  Deep Learning                █████████████░░░░░░░  EXPLORING
-  Scientific Computing         ███████████░░░░░░░░░  EXPLORING
+```text id="xq2j8a"
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   "Understand the why, not just the how."                    │
+│                                                              │
+│   Break the problem.                                         │
+│   Find the fundamentals.                                     │
+│   Experiment.                                                │
+│   Question the result.                                       │
+│   Understand it.                                             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-### 🔬 `ls ./selected-projects`
+### 🧭 `cat interests.txt`
 
-| Project                         | What I'm exploring               |
-| ------------------------------- | -------------------------------- |
-| 🧠 Brain Tumor Segmentation     | Computer Vision / Deep Learning  |
-| 🌧️ Rain Predictor              | Machine Learning / Prediction    |
-| ❤️ Heart Disease Risk Predictor | ML / Data Analysis               |
-| 💰 SpendLog                     | Python / Application Development |
-
-### 🧭 `cat roadmap.txt`
-
-```text
-                         MATHEMATICS
-                              │
-                              ▼
-                       STATISTICS & PROBABILITY
-                              │
-                              ▼
-                         DATA SCIENCE
-                              │
-                              ▼
-                     MACHINE LEARNING
-                              │
-                              ▼
-                       DEEP LEARNING
-                              │
-                              ▼
-                    COMPUTATIONAL MATHEMATICS
-                              │
-                              ▼
-                         AI RESEARCH
+```text id="w3h6nz"
+Artificial Intelligence
+Machine Learning
+Computational Mathematics
+Data Science
+Scientific Computing
+Astrophysics
+Algorithms
+Football
 ```
 
-```text
-LONG-TERM DIRECTION
+### 🧩 `./stack`
 
-Build a strong foundation in mathematics and computation,
-then use it to understand and develop intelligent systems.
-
-Future goal → Graduate research in AI / Computational Mathematics
+```text id="t5p7ca"
+Languages        Python · Java · JavaScript · SQL
+Data / ML        NumPy · Pandas · Scikit-learn · PyTorch
+Development     Git · GitHub · MATLAB
+Web              HTML · CSS · React
 ```
 
-### ⚽ `git log --graph --interests`
+### 🌌 `cat direction.txt`
 
-```text
-* ── 📐 Mathematics
-│
-├── 🧠 Artificial Intelligence
-│
-├── 📊 Data Science
-│
-├── 🌌 Astrophysics
-│
-└── ⚽ Football
+```text id="q9v3xm"
+                    MATHEMATICS
+                         │
+                         ▼
+                  COMPUTATION
+                         │
+                         ▼
+                    DATA SCIENCE
+                         │
+                         ▼
+                MACHINE LEARNING
+                         │
+                         ▼
+                  DEEP LEARNING
+                         │
+                         ▼
+                    AI RESEARCH
 ```
 
-### 🛠️ `ls ./toolbox`
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,git,github,matlab,mysql,html,css,js" />
-
-</p>
-
-### 📚 `./learning-log`
-
-```text
-[✓] Kaggle — Intro to Machine Learning
-[✓] Kaggle — Pandas
-[✓] Kaggle — Data Visualization
-[✓] IBM SkillsBuild — Getting Started with Generative AI
-
-[→] Mathematics for Computing
-[→] Machine Learning
-[→] Deep Learning
-[→] Scientific Computing
-```
+> Exploring the mathematics and computation behind intelligent systems.
 
 ### 📡 `ping --connection`
 
-```text
-[READY] Open to interesting AI/ML projects,
-        open-source collaboration, and research discussions.
+```text id="j6r2vk"
+[READY]
 
-        ┌─────────────────────────────────────┐
-        │  "Build things. Question everything.│
-        │   Understand the mathematics."      │
-        └─────────────────────────────────────┘
+Open to AI/ML discussions, interesting problems,
+open-source collaboration and research conversations.
 ```
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/">LinkedIn</a>
-  •   <a href="https://www.kaggle.com/">Kaggle</a>
-  •   <a href="mailto:your-email@example.com">Email</a>
+<a href="https://www.linkedin.com/in/lahiru-pramuditha-13288941b">LinkedIn</a>
+  •   <a href="https://www.kaggle.com/lahirupramuditha22">Kaggle</a>
+  •   <a href="mailto:lahirupramuditha0000@gmail.com">Email</a>
 
-</p>
+</div>
