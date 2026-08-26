@@ -1,140 +1,172 @@
 <div align="center">
 
-<img src="ascii.jpeg" width="520" alt="Lahiru Pramuditha in ASCII style" />
+<img src="ascii.jpeg" width="520" alt="Lahiru Pramuditha — ASCII terminal portrait" />
 
-<br><br>
+<br>
 
 ```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║                         LAHIRU PRAMUDITHA                            ║
-║                  AI × MATHEMATICS × DATA SCIENCE                    ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+ █████████████████████████████████████████████████████████████████
+
+                 LAHIRU PRAMUDITHA
+          DATA SCIENCE // AI // MATHEMATICS
+
+ █████████████████████████████████████████████████████████████████
 ```
 
 </div>
 
 ```text
-[01] USER       : Lahiru Pramuditha
-[02] ROLE       : Data Science Undergraduate @ SLTC Research University
-[03] MODE       : Learn → Experiment → Build → Understand
-[04] DIRECTION  : AI × Mathematics × Computational Science
-[05] LOCATION   : Sri Lanka
+┌──[ lahiru@github ]──[ ~/profile ]────────────────────────────────┐
+│                                                                  │
+│  $ whoami                                                        │
+│                                                                  │
+│  Lahiru Pramuditha                                               │
+│  Data Science Undergraduate @ SLTC Research University           │
+│                                                                  │
+│  $ uname -a                                                      │
+│                                                                  │
+│  AI / Mathematics / Data Science / Computational Science         │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
-### 🧬 `cat about.md`
+### `$ cat about.txt`
 
 ```text
-I'm Lahiru, a Data Science undergraduate interested in the
-intersection of artificial intelligence, mathematics and computation.
+I'm a Data Science undergraduate interested in understanding
+intelligent systems from the ground up.
 
-I enjoy breaking problems down to first principles, turning
-mathematical ideas into computational experiments, and building
-systems that make those ideas practical.
+My interests sit at the intersection of:
 
-Outside computing, I'm fascinated by astrophysics, the universe,
-and football.
+    Artificial Intelligence
+    Machine Learning
+    Mathematics
+    Data Science
+    Scientific Computing
+
+I like taking a problem apart, finding the underlying mathematics,
+experimenting with it computationally, and understanding why it works.
+
+Outside computing:
+    Astrophysics
+    The universe
+    Football
 ```
 
-### 🧠 `cat philosophy.txt`
+### `$ cat philosophy.txt`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│              "Understand the why, not just the how."         │
-│                                                              │
-│       Break the problem.                                     │
-│       Find the fundamentals.                                 │
-│       Experiment.                                            │
-│       Question the result.                                   │
-│       Understand it.                                         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  > Don't just learn the algorithm.                               │
+│  > Understand the mathematics behind it.                        │
+│                                                                  │
+│  > Don't just make it work.                                      │
+│  > Understand why it works.                                     │
+│                                                                  │
+│  > First principles > memorization                               │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
-### 🧩 `./interests`
+### `$ ls interests/`
 
 ```text
-┌──────────────────────────┬──────────────────────────┐
-│ COMPUTING                │ SCIENCE                  │
-├──────────────────────────┼──────────────────────────┤
-│ Artificial Intelligence  │ Astrophysics             │
-│ Machine Learning         │ Mathematics              │
-│ Data Science             │ Scientific Computing     │
-│ Algorithms               │ The Universe             │
-└──────────────────────────┴──────────────────────────┘
-
-                         + Football
+drwxr-xr-x  ai/
+drwxr-xr-x  machine-learning/
+drwxr-xr-x  mathematics/
+drwxr-xr-x  data-science/
+drwxr-xr-x  scientific-computing/
+drwxr-xr-x  astrophysics/
+drwxr-xr-x  algorithms/
+drwxr-xr-x  football/
 ```
 
-### 🛠️ `./toolbox`
+### `$ cat stack.txt`
 
 ```text
 LANGUAGES
+─────────
 Python · Java · JavaScript · SQL
 
-DATA / ML
+DATA / MACHINE LEARNING
+───────────────────────
 NumPy · Pandas · Scikit-learn · PyTorch
 
-TOOLS
+COMPUTING / TOOLS
+─────────────────
 Git · GitHub · MATLAB
 
 WEB
+───
 HTML · CSS · React
 ```
 
-### 🧭 `cat direction.txt`
+### `$ ./research_path`
 
 ```text
-                         MATHEMATICS
-                              │
-                              ▼
-                       COMPUTATION
-                              │
-                              ▼
-                    DATA & STATISTICS
-                              │
-                              ▼
-                     MACHINE LEARNING
-                              │
-                              ▼
-                      DEEP LEARNING
-                              │
-                              ▼
-               COMPUTATIONAL MATHEMATICS
-                              │
-                              ▼
-                         AI RESEARCH
+                    ┌──────────────┐
+                    │  MATHEMATICS │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │  COMPUTATION │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │ DATA & STATS │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │      ML      │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │      DL      │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │  AI RESEARCH │
+                    └──────────────┘
 ```
 
 ```text
-LONG-TERM
+$ echo "long_term_direction"
 
 Build strong foundations in mathematics and computation,
 then use them to understand and develop intelligent systems.
 ```
 
-### 🌌 `git log --interests`
+### `$ system --status`
 
 ```text
-* ── 📐 Mathematics
-│
-├── 🧠 Artificial Intelligence
-│
-├── 📊 Data Science
-│
-├── 🔬 Scientific Computing
-│
-├── 🌌 Astrophysics
-│
-└── ⚽ Football
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  SYSTEM STATUS                                                   │
+│                                                                  │
+│  [ OK ] Curiosity                                                │
+│  [ OK ] Mathematics                                              │
+│  [ OK ] Python                                                   │
+│  [ OK ] Machine Learning                                        │
+│  [ OK ] Problem Solving                                         │
+│  [ OK ] Experimentation                                         │
+│                                                                  │
+│  [ RUNNING ] Learning                                            │
+│  [ RUNNING ] Building                                            │
+│  [ RUNNING ] Understanding                                      │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
-### 📡 `ping --connection`
+### `$ ping --connection`
 
 ```text
-[READY]
+[CONNECTED]
 
 Open to interesting AI/ML discussions,
 open-source collaboration, and research conversations.
@@ -142,20 +174,16 @@ open-source collaboration, and research conversations.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/lahiru-pramuditha-13288941">LinkedIn</a>
-  •   <a href="https://www.kaggle.com/lahirupramuditha22">Kaggle</a>
-  •   <a href="mailto:lahirupramuditha0000@gmail.com">Email</a>
-
-<br><br>
-
 ```text
-────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────
 
-             BUILD THINGS.
-             QUESTION EVERYTHING.
-             UNDERSTAND THE MATHEMATICS.
+              BUILD  //  QUESTION  //  UNDERSTAND
 
-────────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────────────
 ```
+
+<a href="https://www.linkedin.com/in/lahiru-pramuditha-13288941">LinkedIn</a>
+  |   <a href="https://www.kaggle.com/lahirupramuditha22">Kaggle</a>
+  |   <a href="mailto:lahirupramuditha0000@gmail.com">Email</a>
 
 </div>
